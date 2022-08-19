@@ -2,4 +2,4 @@
 
 Demo repository 
 
-Add.Commit, Pull, Push and reverting the code
+19.08.22 To practice Pull request 
